@@ -35,7 +35,6 @@
 	<a href="https://github.com/FarhanIslam17"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/farhanislam-eng"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/farhan.islam_17/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-	<a href="tel:4372629105"><img src="https://img.shields.io/badge/phone-%2300C300.svg?style=plastic&logo=phone&logoColor=white" alt="Phone"/></a>
 </p>
 
 ## 🛠️ My Skills
