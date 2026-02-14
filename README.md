@@ -157,13 +157,9 @@
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
-
-----	
+### 🔥 Streak Stats
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FarhanIslam17&theme=tokyonight_duo" alt="FarhanIslam17" /></p>
-
-</details>
 
 </br></br>
 	
