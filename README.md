@@ -141,6 +141,10 @@
 <p align="center">
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
 </p>
 
 <br> 
@@ -160,44 +164,3 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FarhanIslam17&theme=tokyonight_duo" alt="FarhanIslam17" /></p>
 
 </details>
-  
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-
-----
-	
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="FarhanIslam17's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FarhanIslam17&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FarhanIslam17&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="FarhanIslam17" height="230px"/>
-<br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
-
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-----
-	
-[![FarhanIslam17's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FarhanIslam17&theme=github)](https://github.com/FarhanIslam17/github-readme-activity-graph)
-
- 
-</details>
-
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
-
-----
-	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FarhanIslam17&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="FarhanIslam17" /></a> </p>
-
-[![@farhanislam17's Holopin board](https://holopin.io/api/user/board?user=farhanislam17)](https://holopin.io/@farhanislam17)
-	
-</details>
-
-</br></br>
-	
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/FarhanIslam17/FarhanIslam17/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
