@@ -141,6 +141,10 @@
 <p align="center">
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
 </p>
 
 <br> 
@@ -160,3 +164,11 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FarhanIslam17&theme=tokyonight_duo" alt="FarhanIslam17" /></p>
 
 </details>
+
+</br></br>
+	
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/FarhanIslam17/FarhanIslam17/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
