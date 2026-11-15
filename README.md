@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="PCB and chip banner" width="100%">
+</p>
+
 <h1 align="center">Hi, I'm Farhan Islam! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Electrical+Engineering+Student;McMaster+University;Avionics+Intern+%40+Reaction+Dynamics;Embedded+Systems+%26+Hardware+Developer;Aerospace+%26+Rocketry+Enthusiast;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Electrical+Engineering+Student;McMaster+University;Software+Engineer+Intern+%40+Resonia+Health;Incoming+Co-op+%40+General+Motors;Embedded+Systems+%26+Hardware+Developer;Semiconductors+%7C+GPUs+%7C+Computer+Architecture;Always+learning+new+things"></a>
 </p>
 
 <br>
@@ -15,15 +19,18 @@
 
 <br><br>
 
-- :school: I am a `Sophomore` at [McMaster University](https://www.mcmaster.ca/) studying `Electrical Engineering` (Expected Graduation: Apr 2029).
+- :school: I am a `third-year` student at [McMaster University](https://www.mcmaster.ca/) studying `Electrical Engineering` (Expected Graduation: Apr 2029).
 - :trophy: Recipient of the `Engineering Award of Excellence`.
-- :rocket: Currently working as an `Avionics Intern` at [Reaction Dynamics](https://reactiondynamics.space/), building flight hardware for Canada's most advanced hybrid rocket launch vehicle.
+- :computer: Currently working as a `Software Engineer Intern` at [Resonia Health](https://resoniahealth.com/).
+- :red_car: Incoming `Body Controls Calibration & System Test Developer` co-op at [General Motors](https://www.gm.com/) (Winter 2027).
+- :rocket: Former `Avionics Intern` at [Reaction Dynamics](https://reactiondynamics.space/), building flight hardware for hybrid rocket launch vehicles.
+- :sunny: `Low Voltage Electrical` team member on McMaster Solar Car.
 - :robot: Former `Electrical Team Lead` for FIRST Robotics Competition Team 9659.
 - :technologist: I love building embedded systems and solving real hardware problems.
+- :zap: Interested in `semiconductors`, `GPU architecture`, and high-performance hardware.
 - :computer: Experienced in `C/C++`, `Python`, `Rust`, `ESP32`, `STM32`, `KiCad`, and embedded systems development.
 - :student: Relevant coursework: `Microprocessor Systems`, `Electronic Devices & Circuits`, `Signals & Systems`, `Electromagnetics`, `Logic Design`.
 - :nerd_face: Always `learning new things` and exploring new technologies.
-- :page_facing_up: Check out [MY RESUME](https://github.com/FarhanIslam17/FarhanIslam17/blob/main/Farhan_Islam_Resume.pdf).
 
 <br>
 
@@ -34,6 +41,7 @@
 	<a href="https://github.com/FarhanIslam17"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/farhanislam-eng"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/farhan.islam_17/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="https://farhanislam17.github.io/"><img src="https://img.shields.io/badge/portfolio-%2300D2FF.svg?style=plastic&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ## 🛠️ My Skills
@@ -65,6 +73,14 @@
   <a href="#" target="_blank"> 
     <img alt="Assembly" src="https://img.shields.io/badge/Assembly-%23525252.svg?style=plastic&logo=assemblyscript&logoColor=white">
   </a>
+  &emsp;
+  <a href="#" target="_blank"> 
+    <img alt="Verilog" src="https://img.shields.io/badge/Verilog-%23B07219.svg?style=plastic&logoColor=white">
+  </a>
+  &emsp;
+  <a href="#" target="_blank"> 
+    <img alt="VHDL" src="https://img.shields.io/badge/VHDL-%23543B7A.svg?style=plastic&logoColor=white">
+  </a>
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Embedded Systems & Hardware
@@ -85,6 +101,14 @@
   &emsp;
   <a href="#" target="_blank"> 
      <img alt="I2C/SPI/UART" src="https://img.shields.io/badge/I2C/SPI/UART-%23008080.svg?style=plastic&logo=protocol&logoColor=white">
+   </a>
+  &emsp;
+  <a href="#" target="_blank"> 
+     <img alt="CAN Bus" src="https://img.shields.io/badge/CAN%20Bus-%23D00000.svg?style=plastic&logoColor=white">
+   </a>
+  &emsp;
+  <a href="#" target="_blank"> 
+     <img alt="FPGA" src="https://img.shields.io/badge/FPGA-%23E01F27.svg?style=plastic&logoColor=white">
    </a>
   &emsp;
   <a href="#" target="_blank"> 
@@ -117,6 +141,12 @@
     <a href="#"><img alt="LTSpice" src="https://img.shields.io/badge/LTSpice-%23990000.svg?style=plastic&logo=analog-devices&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="AutoCAD" src="https://img.shields.io/badge/AutoCAD-%23E51050.svg?style=plastic&logo=autodesk&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Altium Designer" src="https://img.shields.io/badge/Altium%20Designer-%23333333.svg?style=plastic&logo=altiumdesigner&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Siemens NX" src="https://img.shields.io/badge/Siemens%20NX-%23009999.svg?style=plastic&logo=siemens&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="LabVIEW" src="https://img.shields.io/badge/LabVIEW-%23FFDB00.svg?style=plastic&logo=ni&logoColor=black"></a>
   &emsp;
     <a href="#"><img alt="WebSocket" src="https://img.shields.io/badge/WebSocket-%23010101.svg?style=plastic&logo=socket.io&logoColor=white"></a>
   &emsp;
